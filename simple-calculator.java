@@ -1,4 +1,3 @@
-```java
 import javax.swing.*;
 
 public class KalkulatorGUI {
@@ -78,4 +77,3 @@ public class KalkulatorGUI {
         frame.setVisible(true);
     }
 }
-```
